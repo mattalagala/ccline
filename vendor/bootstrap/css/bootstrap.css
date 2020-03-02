@@ -10035,4 +10035,10 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6;
   }
 }
+  .button {
+    background-color: white;
+    border-radius: 12px;
+    font-size: smaller;
+    border:2px solid grey;
+  }
 /*# sourceMappingURL=bootstrap.css.map */
