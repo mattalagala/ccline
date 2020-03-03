@@ -1,0 +1,18 @@
+
+.navbar-toggler{
+  color: black;
+  
+}
+@media (min-width: 992px) {
+    #mainNav {
+      padding-top: 25px;
+      padding-bottom: 25px;
+      transition: padding-top 0.3s, padding-bottom 0.3s;
+      border: none;
+      background-color: black;
+    }
+}
+
+.page-section {
+    padding: 200px 0;
+  }

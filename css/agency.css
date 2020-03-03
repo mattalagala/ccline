@@ -173,11 +173,12 @@ img::-moz-selection {
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("../img/header2.jpg");
+  background-image: url("../img/header-bg2.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;
+  min-height: 52vw;
 }
 
 header.masthead .intro-text {
@@ -680,4 +681,8 @@ ul.social-buttons li a {
 
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
   background-color: #fed136;
+}
+
+#nbg {
+  color: black;
 }
