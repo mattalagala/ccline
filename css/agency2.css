@@ -16,3 +16,7 @@
 .page-section {
     padding: 200px 0;
   }
+
+.img-fluid {
+  height:100%
+}
